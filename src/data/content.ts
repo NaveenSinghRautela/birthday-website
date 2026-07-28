@@ -100,8 +100,8 @@ export const music = {
 
 export const finale = {
   title: `Happiest Birthday, Mera Gunnu bachaa my darlinggg! 🎉`,
-  subtitle: 'That\u2019s everything I made for you — but not everything I feel. Here\u2019s to another year of us.',
-  signOff: `forever your's mera bacha, always`,
+  subtitle: 'That\u2019s everything I made for you — but not everything I feel. Here\u2019s to another year of us.𓍯𓂃𓏧♡💫👀💞🫶',
+  signOff: `forever your's mera bacha, always🫶🏼🧿💕`,
   restartLabel: '↺ Watch it again',
 };
 
